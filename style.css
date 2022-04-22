@@ -4,6 +4,15 @@ body {
   overflow: hidden;
   background-color: #fcf8f8;
 }
+.title-text {
+  text-align: center;
+  font-size: 10px;
+  opacity: 30%;
+}
+.list {
+  list-style: none;
+}
+
 .credits {
   width: 100%;
   top: 90%;
